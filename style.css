@@ -35,22 +35,30 @@ h3 {
 .project{
     width: 30%;
     margin: 10px;
-    padding: 20px 10px;
+    padding: 15px 10px;
     background:#80856e;
-    border-radius: 25%;
+    border-radius: 15px;
 }
 
 .project img{
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid #f5cdc7;
+    border: 5cqi solid #f5cdc7;
     display: block;
     margin: auto;
 }
 
 .project img:hover{
-    border: 2px solid white;
+    border: 5px solid white;
+}
+
+.project p {
+    width:50%;
+    text-align: center;
+    margin: 10px;
+    line-height: 75%;
+     color: #739a64;
 }
 
 a{
@@ -76,7 +84,7 @@ a{
     margin-right: 100px;
     margin-left: 100px;
     justify-content: center;
-    color: #80856e;
+    color: #739a64;
 }
 
 .about p {
@@ -84,7 +92,7 @@ a{
     text-align: left;
     margin: 40px;
     line-height: 125%;
-     color: #80856e;
+     color: #739a64;
 }
 
 /* Contact Section Styling */
